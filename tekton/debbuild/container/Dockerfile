@@ -1,5 +1,5 @@
 # using rolling to get latest golang
-FROM ubuntu:rolling
+FROM ubuntu:20.10
 
 ENV DEBIAN_FRONTEND=noninteractive
 
