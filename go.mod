@@ -23,7 +23,7 @@ require (
 	github.com/tidwall/gjson v1.6.0 // indirect
 	go.opencensus.io v0.22.4
 	go.uber.org/multierr v1.5.0
-	golang.org/x/crypto v0.0.0-20200510223506-06a226fb4e37
+	golang.org/x/crypto v0.1.0
 	golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543
 	gopkg.in/yaml.v2 v2.3.0
 	gotest.tools/v3 v3.0.1
